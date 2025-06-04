@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @AbdulAziz2397
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @AbdulAziz2397  
+👨‍💻 Web and app developer from Karachi, Pakistan  
+🌱 Learning and growing since Nov 2024 at SMIT (Saylani Mass IT Training)  
+💡 Skills: HTML, CSS, JavaScript, Bootstrap, Firebase  
+👀 I’m interested in frontend development and real-world projects  
+💞️ I’m looking to collaborate on beginner-friendly web and app projects  
+📫 How to reach me:  
+&nbsp;&nbsp; [Email](mailto:abdulaziztahir2397@gmail.com) |  
+&nbsp;&nbsp; [GitHub](https://github.com/AbdulAziz2397) |  
+&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulaziztahir) |  
+&nbsp;&nbsp; [Facebook](https://www.facebook.com/abdulaziztahir)  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I have a background in traditional Islamic studies alongside modern tech skills
+
 
 <!---
 AbdulAziz2397/AbdulAziz2397 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
