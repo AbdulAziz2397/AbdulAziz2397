@@ -3,9 +3,7 @@
 🌱 Learning and growing since Nov 2024 at SMIT (Saylani Mass IT Training)  
 💡 Skills: HTML, CSS, JavaScript, Bootstrap, Firebase  
 👀 I’m interested in frontend development and real-world projects  
-💞️ I’m looking to collaborate on beginner-friendly web and app projects  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I have a background in traditional Islamic studies alongside modern tech skills
+💞️ I’m looking to collaborate on beginner-friendly web and app projects
 
 
 <!---
