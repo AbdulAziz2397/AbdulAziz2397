@@ -64,7 +64,7 @@ _Visit my repositories to explore more → **github.com/AbdulAziz2397**_
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AbdulAzizTahir-1&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AbdulAziz2397-1&show_icons=true&theme=dark" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzizTahir-1&theme=dark" />
 </p>
 
