@@ -20,7 +20,6 @@ I love creating **clean, modern, fast and responsive** digital experiences.
 - MERN Stack Projects  
 - Firebase Authentication  
 - TailwindCSS + MUI Interfaces  
-- Eye-Controlled Apps using OpenCV  
 - Professional E-commerce Websites  
 
 ---
@@ -48,21 +47,18 @@ I love creating **clean, modern, fast and responsive** digital experiences.
 ### 🔗 **1. E-Commerce MERN Website**  
 ➡️ *Admin & User panels, Firebase Auth, Tailwind, secure APIs*
 
-### 🔗 **2. Assistive Eye-Control Web App**  
-➡️ *JS + OpenCV.js + Vision tracking for disabled patients*
-
-### 🔗 **3. Portfolio Website**  
+### 🔗 **2. Portfolio Website**  
 ➡️ *React + TailwindCSS Apple-style minimal UI*
 
-_Visit my repositories to explore more → **github.com/AbdulAzizTahir-1**_
+_Visit my repositories to explore more → **github.com/AbdulAziz2397**_
 
 ---
 
 ## 📫 Contact Me
 
-- **Email:** abdulaziztahir@gmail.com  
-- **LinkedIn:** (add your link here)  
-- **Portfolio Website:** (add your link, I can build a portfolio for deployment if you want)
+- **Email:** abdulaziztahir2397@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/abdulaziz-tahir 
+- **Portfolio Website:** (https://abdulaziz-tahir.netlify.app, I can build a portfolio for deployment if you want)
 
 ---
 
@@ -78,12 +74,3 @@ _Visit my repositories to explore more → **github.com/AbdulAzizTahir-1**_
 > ***“Code is like art. The cleaner it is, the more valuable it becomes.”***
 
 ---
-
-### ⭐ If you want, I can also:
-✔ Design a **second version** of your README  
-✔ Add **custom badges**  
-✔ Add **Apple-style hero banner**  
-✔ Add **animations**  
-✔ Add **activity graph**
-
-Just tell me **“make it more premium”** or **“make a dark version”**.
